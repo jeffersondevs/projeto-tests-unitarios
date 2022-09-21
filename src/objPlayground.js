@@ -35,7 +35,6 @@
 */
 
 const calculator = (number1, number2) => {
-  
 };
 
 const arrayGenerator = (type, object) => {
